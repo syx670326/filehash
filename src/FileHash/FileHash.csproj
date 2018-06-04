@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <PackAsTool>true</PackAsTool>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>YideSun</Authors>
+    <Description>Computes the hash value for a file by using a specified hash algorithm.</Description>
+    <Company></Company>
+  </PropertyGroup>
+
+</Project>
