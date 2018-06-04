@@ -7,6 +7,13 @@
     <Authors>YideSun</Authors>
     <Description>Computes the hash value for a file by using a specified hash algorithm.</Description>
     <Company></Company>
+    <Version>1.0.1</Version>
+    <PackageProjectUrl>https://github.com/syx670326/filehash</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/syx670326/filehash.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Copyright>Copyright © 2018</Copyright>
+    <PackageTags>.net core;global tool;hash</PackageTags>
+    <PackageLicenseUrl>https://github.com/syx670326/filehash/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
